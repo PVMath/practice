@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.SDET38.VIEJE.TESTNG.writeUs1Test"/>
+      <class name="com.SDET38.VIEJE.TESTNG.createAdmin_PackageTest"/>
+      <class name="com.SDET38.VIEJE.TESTNG.manageVerification1Test"/>
+      <class name="com.SDET38.VIEJE.TESTNG.updatePage1Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-17T15:02:27 IST" name="method" finished-at="2022-08-17T15:02:27 IST" duration-ms="49">
+    <groups>
+      <group name="regression">
+        <method signature="class4.write4()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class4@57af006c]" name="write4" class="org.SDET38_VIAJE_PRACTICE.class4"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="class1.write1()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class1@6bedbc4d]" name="write1" class="org.SDET38_VIAJE_PRACTICE.class1"/>
+        <method signature="class1.write5()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class1@6bedbc4d]" name="write5" class="org.SDET38_VIAJE_PRACTICE.class1"/>
+        <method signature="class1.write6()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class1@6bedbc4d]" name="write6" class="org.SDET38_VIAJE_PRACTICE.class1"/>
+        <method signature="class2.write2()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class2@932bc4a]" name="write2" class="org.SDET38_VIAJE_PRACTICE.class2"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-08-17T15:02:27 IST" name="Test" finished-at="2022-08-17T15:02:27 IST" duration-ms="49">
+      <class name="org.SDET38_VIAJE_PRACTICE.class1">
+        <test-method signature="write1()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class1@6bedbc4d]" started-at="2022-08-17T15:02:27 IST" name="write1" finished-at="2022-08-17T15:02:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write1 -->
+        <test-method signature="write5()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class1@6bedbc4d]" started-at="2022-08-17T15:02:27 IST" name="write5" finished-at="2022-08-17T15:02:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write5 -->
+        <test-method signature="write6()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class1@6bedbc4d]" started-at="2022-08-17T15:02:27 IST" name="write6" finished-at="2022-08-17T15:02:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write6 -->
+      </class> <!-- org.SDET38_VIAJE_PRACTICE.class1 -->
+      <class name="org.SDET38_VIAJE_PRACTICE.class2">
+        <test-method signature="write2()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class2@932bc4a]" started-at="2022-08-17T15:02:27 IST" name="write2" finished-at="2022-08-17T15:02:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write2 -->
+      </class> <!-- org.SDET38_VIAJE_PRACTICE.class2 -->
+      <class name="org.SDET38_VIAJE_PRACTICE.class4">
+        <test-method signature="write4()[pri:0, instance:org.SDET38_VIAJE_PRACTICE.class4@57af006c]" started-at="2022-08-17T15:02:27 IST" name="write4" finished-at="2022-08-17T15:02:27 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write4 -->
+      </class> <!-- org.SDET38_VIAJE_PRACTICE.class4 -->
+    </test> <!-- Test -->
+  </suite> <!-- method -->
+</testng-results>

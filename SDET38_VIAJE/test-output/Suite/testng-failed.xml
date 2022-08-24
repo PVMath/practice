@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="BROWSER" value="firefox"/>
+  <listeners>
+    <listener class-name="com.tms.comcast.genericutility.ListImpClass"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="BROWSER" value="firefox"/>
+    <classes>
+      <class name="com.SDET38.VIEJE.TESTNG.manageVerification1Test">
+        <methods>
+          <include name="tourPackageTest"/>
+          <include name="AS"/>
+          <include name="configAC"/>
+          <include name="ConfigBS"/>
+          <include name="ConfigBC"/>
+        </methods>
+      </class> <!-- com.SDET38.VIEJE.TESTNG.manageVerification1Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
