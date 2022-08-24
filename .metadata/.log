@@ -2795,3 +2795,286 @@ org.eclipse.jgit.errors.TransportException: https://github.com/PVMath/practice.g
 	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:254)
 	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:204)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.jdt.core 4 4 2022-08-24 15:33:25.405
+!MESSAGE Failed to index /Basavaraj/testng.xml
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1469)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1477)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1315)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1277)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:709)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:154)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:445)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:31.178
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:31.181
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:32.431
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:32.433
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:32.563
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:32.566
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:33.244
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:33.246
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:34.289
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:33:34.291
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:35:16.300
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:37:52.583
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:37:52.592
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:37:53.102
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:37:53.104
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:37:53.116
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:37:53.118
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:00.841
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:00.845
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:00.860
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:00.862
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:02.710
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:02.715
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:02.727
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:02.729
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:03.810
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:03.813
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:03.824
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:03.827
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:04.663
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:04.665
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:04.672
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:04.674
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:11.129
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:11.134
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:11.146
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:11.148
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:11.745
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:11.747
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:11.752
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:11.754
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:12.740
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:12.742
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:12.748
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:12.750
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:14.771
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:14.773
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:14.779
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:14.780
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:17.584
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:17.589
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:17.599
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:17.601
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:19.094
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:19.098
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:19.109
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:19.112
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:22.168
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:22.172
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:22.184
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:22.186
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:22.826
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:22.828
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:22.833
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:22.834
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:23.417
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:23.420
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:23.432
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:23.434
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:24.198
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:24.201
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:24.210
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:24.211
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:38:25.677
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:38:25.683
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:26.193
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:26.198
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:26.206
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:26.208
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:38.377
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:38.381
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:38.391
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:38.393
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:38:39.119
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-08-24 15:38:39.125
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:39.635
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:39.641
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:39.653
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
+
+!ENTRY org.eclipse.jdt.core 4 0 2022-08-24 15:38:39.655
+!MESSAGE Invalid ZIP archive: testng.xml [in Basavaraj]
